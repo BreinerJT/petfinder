@@ -1,0 +1,6 @@
+[submodule "petfinder-back"]
+	path = petfinder-back
+	url = https://github.com/BreinerJT/petfinder-backend.git
+[submodule "petfinder-front"]
+	path = petfinder-front
+	url = https://github.com/BreinerJT/petfinder-front.git
